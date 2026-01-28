@@ -2,11 +2,11 @@ title: "Carleton - Haldore Hanson's China"
 collection:
   - https://contentdm.carleton.edu/iiif/2/China1949/manifest.json
 metadata:
-  - Original Photo Date
-  - Type
   - "Subject -- LCSH"
+  - Original Photo Date
 featured:
   - https://cdm17227.contentdm.oclc.org/iiif/2/China1949:169/manifest.json
+  - https://cdm17227.contentdm.oclc.org/iiif/2/China1949:199/manifest.json
 theme:
   appearance: dark
   accentColor: tomato
